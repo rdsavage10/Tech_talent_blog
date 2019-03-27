@@ -7,8 +7,6 @@ gem 'devise'
 
 gem 'kaminari'
 
-gem 'bcrypt', '3.1.11', platforms: [:ruby, :x64_mingw]
-
 gem 'carrierwave', '~> 1.0'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.2.2', '>= 5.2.2.1'
